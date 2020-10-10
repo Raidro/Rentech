@@ -31,3 +31,14 @@ DISCIPLINA: EMPREENDEDORISMO, INOVAÇÃO E NEGÓCIOS DIGITAIS </h2>
 Atenciosamente,
 
 *Prof.* Romão.
+
+---
+
+# Vídeos Exibidos em Aula :clapper:
+
+[De onde vêm as boas ideias](https://www.youtube.com/watch?v=_2X-VAhSFsM)
+
+[Escolas matam a criatividade](https://www.youtube.com/watch?v=M2pRR_w-5Uk)
+
+[Escolas matam a aprendizagem](https://www.youtube.com/watch?v=WauIURFTpEc)
+
