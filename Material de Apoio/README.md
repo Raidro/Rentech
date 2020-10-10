@@ -1,4 +1,5 @@
-<h2 align="center"> UNIVERSIDADE POTIGUAR <br />
+<h2 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGdZTx4JD-0WQ/company-logo_200_200/0?e=2159024400&v=beta&t=C7xu9vvMaRIxs9J95SAnpHJSnRHNXzeuQTUc3owuV14" width="150px" /> <br />
+UNIVERSIDADE POTIGUAR <br />
 PÓS GRADUAÇÃO EM DISPOSITIVOS MÓVEIS <br />
 DISCIPLINA: EMPREENDEDORISMO, INOVAÇÃO E NEGÓCIOS DIGITAIS </h2>
 <p align="center"> ATIVIDADE FINAL </p>
