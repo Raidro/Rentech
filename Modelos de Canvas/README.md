@@ -1,6 +1,3 @@
-# Rentech
-Trabalho final da disciplina de empreendedorismo, inovação e negócios digitais do curso de Dispositivos Moveis da Universidade Potiguar(UNP)
+# Modelos de Canvas
 
-# Sobre o projeto
-
-Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de uma startup de base tecnológica com modelo de negócio digital.
+Inserir aqui os *Modelos de Canvas* que são a solução do nosso projeto e que devem ser entregues ao professor Romão. 
