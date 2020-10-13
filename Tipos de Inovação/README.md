@@ -10,9 +10,9 @@ Tendo como base os [10 tipos de inovação propostos por Larry Keeley](https://w
 
 Nosso negócio tem como intuito fornecer equipamentos de IoT em formato de prestação de serviços, de curto ou longo prazo, com a possibilidade de cancelamento da prestação de serviços quando necessário (e conforme contratato). Um dos intuitos da Rentech é disponibilizar todo o equipamento necessário para funcionamento de empresas, estruturas residenciais e eventos, de modo a trazer economia aos nossos clientes, que não necessitarão adquirir equipamentos próprios para operações de caráter temporário.
 
-Além disso, nosso principal carro-chefe é o serviço de consultoria a partir da análise de dados gerados pelos nossos equipamentos de IoT, conforme a necessidade dos nossos clientes. Por exemplo, em um sistema ERP voltado à venda física de produtos, é possível obter dados de volumes de vendas, devido a estas vendas estarem registradas no sistema. No entanto, nossos serviços  tem o diferencial de possibilitar também a análise de outros fatores, como: 
+Além disso, nosso principal carro-chefe é o serviço de consultoria a partir da análise de dados gerados pelos nossos equipamentos de IoT, conforme a necessidade dos nossos clientes. Por exemplo, em um sistema ERP voltado à venda física de produtos, é possível obter dados de volumes de vendas, devido a estas vendas estarem registradas no sistema. No entanto, nossos serviços tem o diferencial de possibilitar também a análise de outros fatores, como: 
 
-* quanitdade de acessos à loja;
+* quantidade de acessos à loja;
 * quantidade de clientes que saíram da loja sem compras;
 * seções mais movimentadas;
 * tantas outras, conforme necessidade dos nossos clientes.
@@ -33,11 +33,11 @@ Estamos sempre buscando inovações tecnológicas para que possamos atender os n
 
 **Serviços**
 
-Antes de uma empresa prestadora de serviços, nos consideramos uma empresa prestadora de resultados. Acreditamos que o que mais interessa aos nossos clientes é o resultado final que se espera ao solicitar determinado produto e/ou serviço. Por isso, trabalhamos de forma a entregar os melhores resultados, independente das necessidades intermediárias. Ou seja, para possibilitar a melhor exepriência final, dispomos de diversos meios, como redundância de equipamentos, suporte 24 horas, entre outros. 
+Antes de uma empresa prestadora de serviços, nos consideramos uma empresa prestadora de resultados. Acreditamos que o que mais interessa aos nossos clientes é o resultado final que se espera ao solicitar determinado produto e/ou serviço. Por isso, trabalhamos de forma a entregar os melhores resultados, independente das necessidades intermediárias. Ou seja, para possibilitar a melhor experiência final, dispomos de diversos meios, como redundância de equipamentos, suporte 24 horas, entre outros. 
 
 **Canal**
 
-Através de nossa página WEB, disponibilizamos um ambiente simples e fácil de utilizar para solicitação de nossos serviços. Para nossos clientes, oferecemos ainda uma plataforma completa para visualização de informações sobre o uso dos nossos produtos e serviços, relatórios das possíveis análises realizadas para acompanhamento e ainda aquisição de novos produtos e serviços, sem grande burocaria. Nossos atendentes estão disponíveis 24 horas para qualquer suporte necessário, tanto para dúvidas, solução de problemas e até mesmo novas instalações e configurações, tudo isso com o intuito de trazer facilidade e transparência quanto ao uso dos nossos serviços.
+Através de nossa página WEB, disponibilizamos um ambiente simples e fácil de utilizar para solicitação de nossos serviços. Para nossos clientes, oferecemos ainda uma plataforma completa para visualização de informações sobre o uso dos nossos produtos e serviços, relatórios das possíveis análises realizadas para acompanhamento e ainda aquisição de novos produtos e serviços, sem grande burocracia. Nossos atendentes estão disponíveis 24 horas para qualquer suporte necessário, tanto para dúvidas, solução de problemas e até mesmo novas instalações e configurações, tudo isso com o intuito de trazer facilidade e transparência quanto ao uso dos nossos serviços.
 
 **Envolvimento de clientes**
 
