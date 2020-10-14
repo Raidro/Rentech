@@ -75,7 +75,13 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
   - Agronegocios
   - Empresas de tecnologias
   - industrias
-- A empresa
+- Os concorrentes da nossa empresa são, por exemplo:
+  - Wow Telecom
+  - tctectelecom
+  - AgroSmart
+  - Alientronics
+  - Beyond Domotics
+  - Órbita engenharia
 
 ##### Histórico
 
