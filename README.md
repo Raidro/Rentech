@@ -1,4 +1,5 @@
 # Rentech
+
 Trabalho final da disciplina de empreendedorismo, inovação e negócios digitais do curso de Dispositivos Moveis da Universidade Potiguar(UNP)
 
 # Sobre o projeto
@@ -8,7 +9,9 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 ## Canvas de proposta de valor
 
 ### Segmento do cliente
+
 ##### Tarefas do cliente
+
 - Verificar luzes acesas dentro de casa/estabelecimento;
 - Ajustar intensidade da luz em casa/estabelecimento;
 - Modificar cores das luzes em casa/estabelecimento;
@@ -18,6 +21,7 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 - Monitorar condições de ambientes (temperatura, umidade, pressão, acidez) e tomar decisões para normalizar, caso necessário.
 
 ##### Dores
+
 - <div style="text-align: justify">Ter que se locomover por todo a casa/o estabelecimento verificando todos os cômodos para saber se as luzes estão acesas;</div>
 - <div style="text-align: justify">Muitas vezes não poder controlar intensidade da luz em cômodos, ou só poder controlar mexendo em um interruptor que fica em um local específico;</div>
 - Não ter a possibilidade de modificar a cor da iluminação;
@@ -27,6 +31,7 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 - <div style="text-align: justify">Ter que constantemente verificar condições do ambiente para analisar e tomar decisões.</div>
 
 ##### Ganhos
+
 - Diminuição na conta de energia no final do mês quando luzes de ambientes são apagadas;
 - Um iluminação que deixa o ambiente mais adequado para diferentes ocasiões;
 - Mudança do ambiente dependendo da ocasião utilizando diferentes tonalidades de luz;
@@ -36,14 +41,52 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 - Poder criar ambientes perfeitos para cultivo de plantas ou criação de animais sensíveis a variações ambientais.
 
 ### Segmento do produto
+
 ##### Produtos e serviços
+
 - <div style="text-align: justify">Serviço de IoT (Internet das Coisas), proporcionando ao cliente o conforto de poder verificar status de seus equipamentos, controlar estado de ligado ou desligado, e em alguns casos controlar potência, programar horário de funcionamento, dentre outras possibilidades que a tecnologia permite! Tudo isso direto de seu smartphone.</div>
+
 ##### Aliviam as dores
-- <div style="text-align: justify">O serviço disponibiliza uma aplicação que possui uma interface que permite o controle de todos os dispositivos conectados na rede. O usuário poderá ver informações de todos os dispositivos ativos e inativos em tempo real. Com isso, ele poderá controlar iluminação, itensidade de iluminação, trancas de portas e portões, programar tempo de funcionamento de equipamentos, controlar condições de ambientes fechados, etc, somente com um smartphone.</div> 
+
+- <div style="text-align: justify">O serviço disponibiliza uma aplicação que possui uma interface que permite o controle de todos os dispositivos conectados na rede. O usuário poderá ver informações de todos os dispositivos ativos e inativos em tempo real. Com isso, ele poderá controlar iluminação, itensidade de iluminação, trancas de portas e portões, programar tempo de funcionamento de equipamentos, controlar condições de ambientes fechados, etc, somente com um smartphone.</div>
+
 ##### Criadores de ganhos
+
 - Controle centralizado de equipamentos conectados a rede;
 - Maior flexibilidade no controle;
 - Maior economia de energia;
 - Acesso remoto a todos os equipamentos da rede;
 - Economia de tempo;
 - Informação de todos os equipamentos na palma de sua mão;
+
+## Pitch Canvas
+
+##### Problema
+
+- Você precisa de equipamento de IoT para realizar uma operação de caráter temporário;
+- As opções de compra no mercado são muito caras em relação ao curto espaço de tempo que o equipamento será utilizado;
+- Sua empresa precisa de um sistema de análise de dados dos equipamentos para melhor tomada de decisões;
+
+##### Mercado
+
+##### Histórico
+
+##### Quem é você
+
+##### Pitch de alto nivel
+
+Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou sua empresa, a fim de economizar nos gastos e promover serviços diferenciados.
+
+##### Modelo de negocio
+
+##### Mercado
+
+##### Solução
+
+- Faça aluguel do equipamento necessário, pelo tempo necessário;
+- Tenha a disposição um serviço de consultoria para a análise de dados relevantes a sua empresa;
+- Possibilidade de cancelamento de qualquer serviço a qualquer momento;
+
+##### Equipe
+
+##### Call to action
