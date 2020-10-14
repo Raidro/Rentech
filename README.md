@@ -71,17 +71,17 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 - O nosso mercado pode ser tanto para pessoas fisicas como pra pessoas juridicas;
 - as areas são inumeras, como por exemplo:
-  - Shoppings
-  - Agronegocios
-  - Empresas de tecnologias
-  - industrias
+  - Shoppings;
+  - Agronegocios;
+  - Empresas de tecnologias;
+  - industrias;
 - Alguns dos concorrentes da nossa empresa são:
-  - Wow Telecom
-  - tctectelecom
-  - AgroSmart
-  - Alientronics
-  - Beyond Domotics
-  - Órbita engenharia
+  - Wow Telecom;
+  - tctectelecom;
+  - AgroSmart;
+  - Alientronics;
+  - Beyond Domotics;
+  - Órbita engenharia;
 
 ##### Histórico
 
