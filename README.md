@@ -69,6 +69,14 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 ##### Mercado
 
+- O nosso mercado pode ser tanto para pessoas fisicas como pra pessoas juridicas;
+- as areas são inumeras, como por exemplo:
+  - Shoppings
+  - Agronegocios
+  - Empresas de tecnologias
+  - industrias
+- A empresa
+
 ##### Histórico
 
 ##### Quem é você
