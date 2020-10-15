@@ -75,6 +75,10 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
   - Agronegocios;
   - Empresas de tecnologias;
   - industrias;
+  - Eventos;
+  - Uso pessoal;
+  - Escolas e/ou aulas;
+  - Cursos especializados na área;
 - Alguns dos concorrentes da nossa empresa são:
   - Wow Telecom;
   - tctectelecom;
@@ -85,11 +89,16 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 ##### Histórico
 
-- Nossa empresa é recente no mercado e no momento no possuimos clientes fidelizados
+- Nossa empresa é recente no mercado e momento não possuímos clientes fidelizados;
 
-##### Quem é você
+##### Quem somos
 
+- Jackson Roberio, CEO da Rentech
+- Erick Adams, CTO da Rentech
 - Mateus Sátiro, CMO da Rentech
+- Fabricio Gondim, Desenvolvedor Fullstack da Rentech
+- Felipe Vanderlei, Desenvolvedor Fullstack da Rentech
+- Victor , Desenvolvedor Fullstack da Rentech
 
 ##### Pitch de alto nivel
 
