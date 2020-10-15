@@ -115,7 +115,7 @@ Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou su
 - A principal forma de receita da nossa empresa gira em torno do aluguel do equipamento de IoT e da consultoria;
 - Alugaremos os equipamentos à um preço definido anteriormente;
 - Nossa empresa prestará consultoria as Empresas/Clientes;
-- podendo inclusive, gerar relatorios, que podem ser de grande valias para a Empresas/Clientes;
+- podendo inclusive, gerar relatórios, que podem ser de grande valias para os nossos clientes;
 
 ##### Solução
 
