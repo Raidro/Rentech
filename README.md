@@ -1,4 +1,9 @@
-# Rentech ![Badge](https://img.shields.io/github/license/Raidro/Rentech)![Badge](https://img.shields.io/github/issues/Raidro/Rentech)![Badge](https://img.shields.io/github/forks/Raidro/Rentech)![Badge](https://img.shields.io/github/stars/Raidro/Rentech)
+# Rentech
+
+![Badge](https://img.shields.io/github/license/Raidro/Rentech)
+![Badge](https://img.shields.io/github/issues/Raidro/Rentech)
+![Badge](https://img.shields.io/github/forks/Raidro/Rentech)
+![Badge](https://img.shields.io/github/stars/Raidro/Rentech)
 
 Trabalho final da disciplina de empreendedorismo, inovação e negócios digitais do curso de Dispositivos Moveis da Universidade Potiguar(UNP)
 
