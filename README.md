@@ -76,9 +76,36 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 ##### Mercado
 
+- O nosso mercado pode ser tanto para pessoas fisicas como pra pessoas juridicas;
+- as areas são inumeras, como por exemplo:
+  - Shoppings;
+  - Agronegocios;
+  - Empresas de tecnologias;
+  - industrias;
+  - Eventos;
+  - Uso pessoal;
+  - Escolas e/ou aulas;
+  - Cursos especializados na área;
+- Alguns dos concorrentes da nossa empresa são:
+  - Wow Telecom;
+  - tctectelecom;
+  - AgroSmart;
+  - Alientronics;
+  - Beyond Domotics;
+  - Órbita engenharia;
+
 ##### Histórico
 
-##### Quem é você
+- Nossa empresa é recente no mercado e momento não possuímos clientes fidelizados;
+
+##### Quem somos
+
+- Jackson Roberio, CEO da Rentech
+- Erick Adams, CTO da Rentech
+- Mateus Sátiro, CMO da Rentech
+- Fabricio Gondim, Desenvolvedor Fullstack da Rentech
+- Felipe Vanderlei, Desenvolvedor Fullstack da Rentech
+- Victor, Desenvolvedor Fullstack da Rentech
 
 ##### Pitch de alto nivel
 
@@ -86,7 +113,10 @@ Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou su
 
 ##### Modelo de negocio
 
-##### Mercado
+- A principal forma de receita da nossa empresa gira em torno do aluguel do equipamento de IoT e da consultoria;
+- Alugaremos os equipamentos à um preço definido anteriormente;
+- Nossa empresa prestará consultoria as Empresas/Clientes;
+- podendo inclusive, gerar relatorios, que podem ser de grande valias para a Empresas/Clientes;
 
 ##### Solução
 
@@ -96,4 +126,17 @@ Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou su
 
 ##### Equipe
 
+- C-Levels:
+
+  - CEO: Jackson
+  - CTO: Erick
+  - CMO: Mateus
+
+- Desenvolvedores:
+  - Fabricio
+  - Felipe
+  - Victor
+
 ##### Call to action
+
+- "Alugue equipamentos de IoT rapido e facil sem burocracia. Tenha acesso a relatorios e a uma equipe de consultoria de excelencioa"
