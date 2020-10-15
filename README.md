@@ -46,7 +46,6 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 - Poder criar ambientes perfeitos para cultivo de plantas ou criação de animais sensíveis a variações ambientais;
 - Conseguir realizar diversos tipos de tarefas apenas por comando de voz, tais como acender luz, controla a sua TV, ar condicionado, abrir, fechar e travas portas entre outras funcinalidades.
 
-
 ### Segmento do produto
 
 ##### Produtos e serviços
@@ -139,4 +138,4 @@ Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou su
 
 ##### Call to action
 
-- "Alugue equipamentos de IoT rapido e facil sem burocracia. Tenha acesso a relatorios e a uma equipe de consultoria de excelencioa"
+- "Alugue equipamentos de IoT rapido e facil sem burocracia. Tenha acesso a relatorios e a uma equipe de consultoria de excelência"
