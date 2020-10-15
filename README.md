@@ -89,6 +89,8 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 ##### Quem é você
 
+- Mateus Sátiro, CMO da Rentech
+
 ##### Pitch de alto nivel
 
 Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou sua empresa, a fim de economizar nos gastos e promover serviços diferenciados.
