@@ -95,7 +95,7 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 ##### Histórico
 
-- Nossa empresa é recente no mercado e momento não possuímos clientes fidelizados;
+- Nossa empresa é recente no mercado e no momento não possuímos clientes fidelizados;
 
 ##### Quem somos
 
