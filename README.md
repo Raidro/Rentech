@@ -108,13 +108,13 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 ##### Pitch de alto nivel
 
-Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou sua empresa, a fim de economizar nos gastos e promover serviços diferenciados.
+- Nós ofereceremos equipamento de alta qualidade para alugar, seja para você ou sua empresa, a fim de economizar nos gastos e promover serviços diferenciados.
 
 ##### Modelo de negocio
 
 - A principal forma de receita da nossa empresa gira em torno do aluguel do equipamento de IoT e da consultoria;
 - Alugaremos os equipamentos à um preço definido anteriormente;
-- Nossa empresa prestará consultoria as Empresas/Clientes;
+- Nossa empresa prestará consultoria aos nossos clientes;
 - podendo inclusive, gerar relatórios, que podem ser de grande valias para os nossos clientes;
 
 ##### Solução
