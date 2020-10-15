@@ -19,6 +19,7 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 - Conferir travas de portas e portões ;
 - Ligar/desligar equipamentos/motores/bombas em horários específicos;
 - Monitorar condições de ambientes (temperatura, umidade, pressão, acidez) e tomar decisões para normalizar, caso necessário.
+- Monitorar por vídeo, através de câmeras, as movimentações de determinado ambiente;
 
 ##### Dores
 
@@ -28,17 +29,23 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 - Ter que estar perto dos equipamentos para poder controlá-los;
 - Precisar se descolar até cada porta e portão para verificar as travas;
 - Ter que, manualmente, ligar e desligar equipamentos em determinados horários;
-- <div style="text-align: justify">Ter que constantemente verificar condições do ambiente para analisar e tomar decisões.</div>
+- <div style="text-align: justify">Ter que constantemente verificar condições do ambiente para analisar e tomar decisões;</div>
+- Ter desgaste físico e mental com o gerenciamento próximo e não automatizado de rotinas repetitivas.
 
 ##### Ganhos
 
 - Diminuição na conta de energia no final do mês quando luzes de ambientes são apagadas;
 - Um iluminação que deixa o ambiente mais adequado para diferentes ocasiões;
 - Mudança do ambiente dependendo da ocasião utilizando diferentes tonalidades de luz;
+- Controle de temperatura do ar condicionado automatizado de acordo com a presença de usuários no local monitorado;
 - Temperatura mais confortável;
 - Segurança do estabelecimento ao verificar travas deportas e portões;
+- Realizar destravamento ou disparar algum gatilho a partir da leitura de um digital em um sensor leitor de digital;
+- Realizar destravamento ou disparar algum gatilho a partir da aproximação e da identificação da aproximação pelo sensor de presença;
 - Economia de energia ao ligar equipamentos em determinados intervalo de horas;
-- Poder criar ambientes perfeitos para cultivo de plantas ou criação de animais sensíveis a variações ambientais.
+- Poder criar ambientes perfeitos para cultivo de plantas ou criação de animais sensíveis a variações ambientais;
+- Conseguir realizar diversos tipos de tarefas apenas por comando de voz, tais como acender luz, controla a sua TV, ar condicionado, abrir, fechar e travas portas entre outras funcinalidades.
+
 
 ### Segmento do produto
 
