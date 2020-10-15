@@ -46,7 +46,6 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 - Poder criar ambientes perfeitos para cultivo de plantas ou criação de animais sensíveis a variações ambientais;
 - Conseguir realizar diversos tipos de tarefas apenas por comando de voz, tais como acender luz, controla a sua TV, ar condicionado, abrir, fechar e travas portas entre outras funcinalidades.
 
-
 ### Segmento do produto
 
 ##### Produtos e serviços
@@ -76,7 +75,7 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 ##### Mercado
 
-- O nosso mercado pode ser tanto para pessoas fisicas como pra pessoas juridicas;
+- O nosso mercado pode ser tanto para pessoa física como pra pessoa jurídica;
 - as areas são inumeras, como por exemplo:
   - Shoppings;
   - Agronegocios;
@@ -96,7 +95,7 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 ##### Histórico
 
-- Nossa empresa é recente no mercado e momento não possuímos clientes fidelizados;
+- Nossa empresa é recente no mercado e no momento não possuímos clientes fidelizados;
 
 ##### Quem somos
 
@@ -109,14 +108,14 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma proposta de
 
 ##### Pitch de alto nivel
 
-Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou sua empresa, a fim de economizar nos gastos e promover serviços diferenciados.
+- Nós ofereceremos equipamento de alta qualidade para alugar, seja para você ou sua empresa, a fim de economizar nos gastos e promover serviços diferenciados.
 
 ##### Modelo de negocio
 
 - A principal forma de receita da nossa empresa gira em torno do aluguel do equipamento de IoT e da consultoria;
 - Alugaremos os equipamentos à um preço definido anteriormente;
-- Nossa empresa prestará consultoria as Empresas/Clientes;
-- podendo inclusive, gerar relatorios, que podem ser de grande valias para a Empresas/Clientes;
+- Nossa empresa prestará consultoria aos nossos clientes;
+- podendo inclusive, gerar relatórios, que podem ser de grande valias para os nossos clientes;
 
 ##### Solução
 
@@ -128,15 +127,15 @@ Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou su
 
 - C-Levels:
 
-  - CEO: Jackson
-  - CTO: Erick
-  - CMO: Mateus
+  - CEO: Jackson Roberio
+  - CTO: Erick Adams
+  - CMO: Mateus Sátiro
 
 - Desenvolvedores:
-  - Fabricio
-  - Felipe
+  - Fabricio Gondim
+  - Felipe Vanderlai
   - Victor
 
 ##### Call to action
 
-- "Alugue equipamentos de IoT rapido e facil sem burocracia. Tenha acesso a relatorios e a uma equipe de consultoria de excelencioa"
+- "Alugue equipamentos de IoT rápido e fácil sem burocracia. Tenha acesso a relatórios e a uma equipe de consultoria de excelência"
