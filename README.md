@@ -127,15 +127,15 @@ Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou su
 
 - C-Levels:
 
-  - CEO: Jackson
-  - CTO: Erick
-  - CMO: Mateus
+  - CEO: Jackson Roberio
+  - CTO: Erick Adams
+  - CMO: Mateus Sátiro
 
 - Desenvolvedores:
-  - Fabricio
-  - Felipe
+  - Fabricio Gondim
+  - Felipe Vanderlai
   - Victor
 
 ##### Call to action
 
-- "Alugue equipamentos de IoT rapido e facil sem burocracia. Tenha acesso a relatorios e a uma equipe de consultoria de excelência"
+- "Alugue equipamentos de IoT rápido e fácil sem burocracia. Tenha acesso a relatórios e a uma equipe de consultoria de excelência"
