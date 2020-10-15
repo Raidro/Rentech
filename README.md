@@ -105,4 +105,15 @@ Nós oferecemos equipamento de alta qualidade para alugar, seja para você ou su
 
 ##### Equipe
 
+- C-Levels:
+
+  - CEO: Jackson
+  - CTO: Erick
+  - CMO: Mateus
+
+- Desenvolvedores:
+  - Fabricio
+  - Felipe
+  - Victor
+
 ##### Call to action
