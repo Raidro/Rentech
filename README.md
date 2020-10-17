@@ -164,7 +164,7 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma visão de u
 - Jackson Roberio, CEO da Rentech
 - Eric Adams, CTO da Rentech
 - Mateus Sátiro, CMO da Rentech
-- Fabricio Gondim, Desenvolvedor Fullstack da Rentech
+- Fabrício Gondim, Desenvolvedor Fullstack da Rentech
 - Felipe Vanderlei, Desenvolvedor Fullstack da Rentech
 - Victor Alves, Desenvolvedor Fullstack da Rentech
 
@@ -217,8 +217,8 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma visão de u
   - CMO: Mateus Sátiro
 
 - Desenvolvedores:
-  - Fabricio Gondim
-  - Felipe Vanderlai
+  - Fabrício Gondim
+  - Felipe Vanderlei
   - Victor Alves
 
 #### Call to action
