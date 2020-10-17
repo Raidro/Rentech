@@ -202,6 +202,8 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma visão de u
 
 - Nossa empresa é recente no mercado e no momento não possuímos clientes fidelizados;
 
+
+
 #### Modelo de negocio
 
 - A principal forma de receita da nossa empresa gira em torno do aluguel do equipamento de IoT e da consultoria;
@@ -224,3 +226,11 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma visão de u
 #### Call to action
 
 - "Alugue equipamentos de IoT rápido e fácil sem burocracia. Tenha acesso a relatórios e a uma equipe de consultoria de excelência."
+
+## Produto Mínimo Viável
+
+- Baseando-se nas principais necessidades de equipamentos IoT por parte de pessoas e empresas, fazemos uma análise de custo em relação ao uso.
+- Equipamentos cujos preços não compensam pelo tempo de utilização ganham prioridade.
+- Apresentamos a potenciais clientes uma alternativa mais econômica e conveniente.
+- Aos clientes com maiores necessidades, oferecemos um teste controlado para mostrar a eficiência do equipamento.
+- Se o feedback for positivo, o equipamento é aprovado para estoque.
