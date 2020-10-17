@@ -8,6 +8,12 @@ Este projeto tem como objetivo atender a proposta de desenvolver uma visão de u
 
 ---
 
+## Matriz de Inovação
+
+<img src="/img/matriz-de-inovacao.jpg" />
+
+Este projeto enquadra-se no posto de inovação, visto que no mercado não existe solução semelhante, apesar de existir uma forte comercialização de *Internet of Things* (**IoT**), não encontramos disponível o aluguel dos dispositivos, o que nos traz um ambiente favorável em um cenário escasso em que o público cada vez mais procura por soluções tecnológicas de projetos que tragam automatização e Internet das Coisas.
+
 ## Canvas de proposta de valor
 
 ### Segmento do cliente
